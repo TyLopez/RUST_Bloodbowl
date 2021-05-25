@@ -15,7 +15,7 @@ Bloodbowl is a Rust PVP event plug-in involving item collection, similar to the 
     3. Players receive no physical item, and the blood is removed from the world.
 * Rewards to top finishers of collectathon.
 * Supply drops, chinook crates, and vehicles 
-* Players may air-drop upon death back into the fight with a configurable kit.
+* Players may push a button to air-drop upon death back into the fight with a configurable kit.
 
 
 <h1>Dependencies</h1>
