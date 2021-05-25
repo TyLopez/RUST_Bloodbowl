@@ -30,6 +30,8 @@ WIP
 
 <h1>Dependencies</h1>
 
+* Spending Blood is dependent on BLOOD - custom plug-in for STRIKE PVP / RP.
+
 * [Depends upon GUICreator, Rust GUI API by Ohm.](https://github.com/kiloOhm/GUICreator)
 
 * [Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
