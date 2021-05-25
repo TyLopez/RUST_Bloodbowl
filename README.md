@@ -23,3 +23,5 @@ Bloodbowl is a Rust PVP event plug-in involving item collection, similar in func
 * [Depends upon GUICreator, Rust GUI API by Ohm.](https://github.com/kiloOhm/GUICreator)
 
 * [Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
+
+![Death Screen Button](https://cdn.discordapp.com/attachments/802169252651335680/846529518578696212/unknown.png)
