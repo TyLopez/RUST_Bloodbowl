@@ -17,6 +17,16 @@ Bloodbowl is a Rust PVP event plug-in involving item collection, similar in func
 * Configurable supply drops, chinook crates spawn to encourage participation.
 * Players may push a button to air-drop upon death back into the fight with a configurable kit.
 
+<h1>Config</h1>
+
+WIP
+````
+WIP
+````
+
+<h1>Permissions</h1>
+
+WIP
 
 <h1>Dependencies</h1>
 
