@@ -1,12 +1,14 @@
 # RUST_Bloodbowl
 
 [Depends upon GUICreator, Rust GUI API by Ohm.](https://github.com/kiloOhm/GUICreator)
+[Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
+
 
 Bloodbowl is a Rust PVP event plug-in involving item collection, similar to the Easter, Halloween, and Christmas events, which transforms a monument into a Bloodbowl. 
 
 <h1>Features</h1>
 
-* Blood spawns from the sky and falls into the zone.
+* Blood spawns from the sky and falls into the monument zone.
   * The collectable blood is highlighted to players with a red circle.
   * Upon picking-up blood: 
     1. Players receive a digital currency which they may later redeem for rewards. 
