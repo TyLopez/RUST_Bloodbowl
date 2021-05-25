@@ -3,7 +3,7 @@
 
 
 
-Bloodbowl is a Rust PVP event plug-in involving item collection, similar in function to the Holiday events, which transforms a monument, or any specificed Zone Manager zone, into a Bloodbowl. 
+Bloodbowl is a Rust PVP event plug-in involving item collection, similar in function to the Holiday events, which transforms a monument, or any specified Zone Manager zone, into a Bloodbowl. 
 
 <h1>Features</h1>
 
