@@ -1,7 +1,6 @@
 # RUST_Bloodbowl
 
-[Depends upon GUICreator, Rust GUI API by Ohm.](https://github.com/kiloOhm/GUICreator)
-[Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
+
 
 
 Bloodbowl is a Rust PVP event plug-in involving item collection, similar to the Easter, Halloween, and Christmas events, which transforms a monument into a Bloodbowl. 
@@ -19,3 +18,8 @@ Bloodbowl is a Rust PVP event plug-in involving item collection, similar to the 
 * Players may air-drop upon death back into the fight with a configurable kit.
 
 
+<h1>Dependencies</h1>
+
+* [Depends upon GUICreator, Rust GUI API by Ohm.](https://github.com/kiloOhm/GUICreator)
+
+* [Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
