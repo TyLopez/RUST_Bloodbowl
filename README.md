@@ -1,3 +1,6 @@
 # RUST_Bloodbowl
 
-Test
+Requires GUICreator Rust GUI API by Ohm. 
+https://github.com/kiloOhm/GUICreator
+
+
