@@ -34,4 +34,7 @@ WIP
 
 * [Depends upon Zone Manager](https://umod.org/plugins/zone-manager)
 
+
+<h1>Images</h1>
+
 ![Death Screen Button](https://cdn.discordapp.com/attachments/802169252651335680/846529518578696212/unknown.png)
